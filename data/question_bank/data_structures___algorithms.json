@@ -1,0 +1,396 @@
+{
+  "domain": "Data Structures & Algorithms",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Arrays and strings",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Arrays and strings, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "array",
+        "string",
+        "index",
+        "iteration",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Arrays and strings",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Arrays and strings. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "array",
+        "string",
+        "index",
+        "iteration",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Arrays and strings",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Arrays and strings in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "array",
+        "string",
+        "index",
+        "iteration",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Hash tables",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Hash tables, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "hash",
+        "key",
+        "value",
+        "collision",
+        "lookup"
+      ]
+    },
+    {
+      "topic": "Hash tables",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Hash tables. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "hash",
+        "key",
+        "value",
+        "collision",
+        "lookup"
+      ]
+    },
+    {
+      "topic": "Hash tables",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Hash tables in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "hash",
+        "key",
+        "value",
+        "collision",
+        "lookup"
+      ]
+    },
+    {
+      "topic": "Stacks and queues",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Stacks and queues, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "stack",
+        "queue",
+        "lifo",
+        "fifo",
+        "operation"
+      ]
+    },
+    {
+      "topic": "Stacks and queues",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Stacks and queues. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "stack",
+        "queue",
+        "lifo",
+        "fifo",
+        "operation"
+      ]
+    },
+    {
+      "topic": "Stacks and queues",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Stacks and queues in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "stack",
+        "queue",
+        "lifo",
+        "fifo",
+        "operation"
+      ]
+    },
+    {
+      "topic": "Linked lists",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Linked lists, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "node",
+        "pointer",
+        "head",
+        "traversal",
+        "insertion"
+      ]
+    },
+    {
+      "topic": "Linked lists",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Linked lists. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "node",
+        "pointer",
+        "head",
+        "traversal",
+        "insertion"
+      ]
+    },
+    {
+      "topic": "Linked lists",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Linked lists in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "node",
+        "pointer",
+        "head",
+        "traversal",
+        "insertion"
+      ]
+    },
+    {
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Trees, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "tree",
+        "node",
+        "root",
+        "traversal",
+        "binary search tree"
+      ]
+    },
+    {
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Trees. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "tree",
+        "node",
+        "root",
+        "traversal",
+        "binary search tree"
+      ]
+    },
+    {
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Trees in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "tree",
+        "node",
+        "root",
+        "traversal",
+        "binary search tree"
+      ]
+    },
+    {
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Graphs, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "graph",
+        "vertex",
+        "edge",
+        "bfs",
+        "dfs"
+      ]
+    },
+    {
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Graphs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "graph",
+        "vertex",
+        "edge",
+        "bfs",
+        "dfs"
+      ]
+    },
+    {
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Graphs in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "graph",
+        "vertex",
+        "edge",
+        "bfs",
+        "dfs"
+      ]
+    },
+    {
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Sorting, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "sorting",
+        "merge sort",
+        "quick sort",
+        "comparison",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Sorting. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "sorting",
+        "merge sort",
+        "quick sort",
+        "comparison",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Sorting in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "sorting",
+        "merge sort",
+        "quick sort",
+        "comparison",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Searching, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "binary search",
+        "linear search",
+        "sorted",
+        "logarithmic",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Searching. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "binary search",
+        "linear search",
+        "sorted",
+        "logarithmic",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Searching",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Searching in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "binary search",
+        "linear search",
+        "sorted",
+        "logarithmic",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Dynamic programming",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Dynamic programming, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "dynamic programming",
+        "subproblem",
+        "memoization",
+        "tabulation",
+        "optimal"
+      ]
+    },
+    {
+      "topic": "Dynamic programming",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Dynamic programming. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "dynamic programming",
+        "subproblem",
+        "memoization",
+        "tabulation",
+        "optimal"
+      ]
+    },
+    {
+      "topic": "Dynamic programming",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Dynamic programming in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "dynamic programming",
+        "subproblem",
+        "memoization",
+        "tabulation",
+        "optimal"
+      ]
+    },
+    {
+      "topic": "Big-O complexity",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Big-O complexity, and why is it important in data structures & algorithms? Give a concise example.",
+      "expected_concepts": [
+        "time complexity",
+        "space complexity",
+        "big o",
+        "input size",
+        "growth"
+      ]
+    },
+    {
+      "topic": "Big-O complexity",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data structures & algorithms project and need to use Big-O complexity. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "time complexity",
+        "space complexity",
+        "big o",
+        "input size",
+        "growth"
+      ]
+    },
+    {
+      "topic": "Big-O complexity",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Big-O complexity in data structures & algorithms, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "time complexity",
+        "space complexity",
+        "big o",
+        "input size",
+        "growth"
+      ]
+    }
+  ]
+}

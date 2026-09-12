@@ -1,0 +1,396 @@
+{
+  "domain": "Database / SQL",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "SQL joins",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is SQL joins, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "join",
+        "inner join",
+        "left join",
+        "foreign key",
+        "matching"
+      ]
+    },
+    {
+      "topic": "SQL joins",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use SQL joins. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "join",
+        "inner join",
+        "left join",
+        "foreign key",
+        "matching"
+      ]
+    },
+    {
+      "topic": "SQL joins",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For SQL joins in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "join",
+        "inner join",
+        "left join",
+        "foreign key",
+        "matching"
+      ]
+    },
+    {
+      "topic": "Aggregation",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Aggregation, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "group by",
+        "having",
+        "count",
+        "sum",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "Aggregation",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Aggregation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "group by",
+        "having",
+        "count",
+        "sum",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "Aggregation",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Aggregation in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "group by",
+        "having",
+        "count",
+        "sum",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "Indexes",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Indexes, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "index",
+        "query",
+        "lookup",
+        "performance",
+        "write overhead"
+      ]
+    },
+    {
+      "topic": "Indexes",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Indexes. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "index",
+        "query",
+        "lookup",
+        "performance",
+        "write overhead"
+      ]
+    },
+    {
+      "topic": "Indexes",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Indexes in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "index",
+        "query",
+        "lookup",
+        "performance",
+        "write overhead"
+      ]
+    },
+    {
+      "topic": "Normalization",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Normalization, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "normalization",
+        "redundancy",
+        "functional dependency",
+        "normal form",
+        "table"
+      ]
+    },
+    {
+      "topic": "Normalization",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Normalization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "normalization",
+        "redundancy",
+        "functional dependency",
+        "normal form",
+        "table"
+      ]
+    },
+    {
+      "topic": "Normalization",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Normalization in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "normalization",
+        "redundancy",
+        "functional dependency",
+        "normal form",
+        "table"
+      ]
+    },
+    {
+      "topic": "Transactions",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Transactions, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "transaction",
+        "acid",
+        "commit",
+        "rollback",
+        "consistency"
+      ]
+    },
+    {
+      "topic": "Transactions",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Transactions. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "transaction",
+        "acid",
+        "commit",
+        "rollback",
+        "consistency"
+      ]
+    },
+    {
+      "topic": "Transactions",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Transactions in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "transaction",
+        "acid",
+        "commit",
+        "rollback",
+        "consistency"
+      ]
+    },
+    {
+      "topic": "Isolation",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Isolation, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "isolation",
+        "dirty read",
+        "non repeatable",
+        "phantom",
+        "concurrency"
+      ]
+    },
+    {
+      "topic": "Isolation",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Isolation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "isolation",
+        "dirty read",
+        "non repeatable",
+        "phantom",
+        "concurrency"
+      ]
+    },
+    {
+      "topic": "Isolation",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Isolation in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "isolation",
+        "dirty read",
+        "non repeatable",
+        "phantom",
+        "concurrency"
+      ]
+    },
+    {
+      "topic": "Query optimization",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Query optimization, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "explain",
+        "index",
+        "execution plan",
+        "join",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Query optimization",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Query optimization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "explain",
+        "index",
+        "execution plan",
+        "join",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Query optimization",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Query optimization in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "explain",
+        "index",
+        "execution plan",
+        "join",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Constraints",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Constraints, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "primary key",
+        "foreign key",
+        "unique",
+        "check",
+        "not null"
+      ]
+    },
+    {
+      "topic": "Constraints",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Constraints. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "primary key",
+        "foreign key",
+        "unique",
+        "check",
+        "not null"
+      ]
+    },
+    {
+      "topic": "Constraints",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Constraints in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "primary key",
+        "foreign key",
+        "unique",
+        "check",
+        "not null"
+      ]
+    },
+    {
+      "topic": "Views and procedures",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Views and procedures, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "view",
+        "stored procedure",
+        "query",
+        "security",
+        "reuse"
+      ]
+    },
+    {
+      "topic": "Views and procedures",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Views and procedures. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "view",
+        "stored procedure",
+        "query",
+        "security",
+        "reuse"
+      ]
+    },
+    {
+      "topic": "Views and procedures",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Views and procedures in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "view",
+        "stored procedure",
+        "query",
+        "security",
+        "reuse"
+      ]
+    },
+    {
+      "topic": "Database security",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Database security, and why is it important in database / sql? Give a concise example.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "sql injection",
+        "least privilege",
+        "parameterized"
+      ]
+    },
+    {
+      "topic": "Database security",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a database / sql project and need to use Database security. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "sql injection",
+        "least privilege",
+        "parameterized"
+      ]
+    },
+    {
+      "topic": "Database security",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Database security in database / sql, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "sql injection",
+        "least privilege",
+        "parameterized"
+      ]
+    }
+  ]
+}

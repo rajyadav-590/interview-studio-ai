@@ -1,0 +1,396 @@
+{
+  "domain": "Deep Learning",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Neural networks",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Neural networks, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "neuron",
+        "layer",
+        "weights",
+        "activation",
+        "forward"
+      ]
+    },
+    {
+      "topic": "Neural networks",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Neural networks. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "neuron",
+        "layer",
+        "weights",
+        "activation",
+        "forward"
+      ]
+    },
+    {
+      "topic": "Neural networks",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Neural networks in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "neuron",
+        "layer",
+        "weights",
+        "activation",
+        "forward"
+      ]
+    },
+    {
+      "topic": "Backpropagation",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Backpropagation, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "backpropagation",
+        "gradient",
+        "loss",
+        "chain rule",
+        "weights"
+      ]
+    },
+    {
+      "topic": "Backpropagation",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Backpropagation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "backpropagation",
+        "gradient",
+        "loss",
+        "chain rule",
+        "weights"
+      ]
+    },
+    {
+      "topic": "Backpropagation",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Backpropagation in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "backpropagation",
+        "gradient",
+        "loss",
+        "chain rule",
+        "weights"
+      ]
+    },
+    {
+      "topic": "Activation functions",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Activation functions, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "relu",
+        "sigmoid",
+        "tanh",
+        "activation",
+        "nonlinearity"
+      ]
+    },
+    {
+      "topic": "Activation functions",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Activation functions. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "relu",
+        "sigmoid",
+        "tanh",
+        "activation",
+        "nonlinearity"
+      ]
+    },
+    {
+      "topic": "Activation functions",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Activation functions in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "relu",
+        "sigmoid",
+        "tanh",
+        "activation",
+        "nonlinearity"
+      ]
+    },
+    {
+      "topic": "Loss functions",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Loss functions, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "loss",
+        "mse",
+        "cross entropy",
+        "optimization",
+        "error"
+      ]
+    },
+    {
+      "topic": "Loss functions",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Loss functions. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "loss",
+        "mse",
+        "cross entropy",
+        "optimization",
+        "error"
+      ]
+    },
+    {
+      "topic": "Loss functions",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Loss functions in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "loss",
+        "mse",
+        "cross entropy",
+        "optimization",
+        "error"
+      ]
+    },
+    {
+      "topic": "Optimizers",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Optimizers, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "gradient descent",
+        "adam",
+        "learning rate",
+        "optimizer",
+        "update"
+      ]
+    },
+    {
+      "topic": "Optimizers",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Optimizers. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "gradient descent",
+        "adam",
+        "learning rate",
+        "optimizer",
+        "update"
+      ]
+    },
+    {
+      "topic": "Optimizers",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Optimizers in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "gradient descent",
+        "adam",
+        "learning rate",
+        "optimizer",
+        "update"
+      ]
+    },
+    {
+      "topic": "CNNs",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is CNNs, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "convolution",
+        "filter",
+        "pooling",
+        "feature map",
+        "image"
+      ]
+    },
+    {
+      "topic": "CNNs",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use CNNs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "convolution",
+        "filter",
+        "pooling",
+        "feature map",
+        "image"
+      ]
+    },
+    {
+      "topic": "CNNs",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For CNNs in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "convolution",
+        "filter",
+        "pooling",
+        "feature map",
+        "image"
+      ]
+    },
+    {
+      "topic": "RNNs",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is RNNs, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "sequence",
+        "hidden state",
+        "recurrent",
+        "time step",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "RNNs",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use RNNs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "sequence",
+        "hidden state",
+        "recurrent",
+        "time step",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "RNNs",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For RNNs in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "sequence",
+        "hidden state",
+        "recurrent",
+        "time step",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Transformers",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Transformers, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "attention",
+        "self attention",
+        "token",
+        "embedding",
+        "transformer"
+      ]
+    },
+    {
+      "topic": "Transformers",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Transformers. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "attention",
+        "self attention",
+        "token",
+        "embedding",
+        "transformer"
+      ]
+    },
+    {
+      "topic": "Transformers",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Transformers in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "attention",
+        "self attention",
+        "token",
+        "embedding",
+        "transformer"
+      ]
+    },
+    {
+      "topic": "Regularization",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Regularization, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "dropout",
+        "regularization",
+        "overfitting",
+        "weight decay",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Regularization",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Regularization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "dropout",
+        "regularization",
+        "overfitting",
+        "weight decay",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Regularization",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Regularization in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "dropout",
+        "regularization",
+        "overfitting",
+        "weight decay",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Training stability",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Training stability, and why is it important in deep learning? Give a concise example.",
+      "expected_concepts": [
+        "batch",
+        "learning rate",
+        "normalization",
+        "gradient",
+        "convergence"
+      ]
+    },
+    {
+      "topic": "Training stability",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a deep learning project and need to use Training stability. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "batch",
+        "learning rate",
+        "normalization",
+        "gradient",
+        "convergence"
+      ]
+    },
+    {
+      "topic": "Training stability",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Training stability in deep learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "batch",
+        "learning rate",
+        "normalization",
+        "gradient",
+        "convergence"
+      ]
+    }
+  ]
+}

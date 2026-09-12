@@ -1,0 +1,396 @@
+{
+  "domain": "Cybersecurity",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Authentication",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Authentication, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "authentication",
+        "identity",
+        "password",
+        "mfa",
+        "token"
+      ]
+    },
+    {
+      "topic": "Authentication",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Authentication. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "authentication",
+        "identity",
+        "password",
+        "mfa",
+        "token"
+      ]
+    },
+    {
+      "topic": "Authentication",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Authentication in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "authentication",
+        "identity",
+        "password",
+        "mfa",
+        "token"
+      ]
+    },
+    {
+      "topic": "Authorization",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Authorization, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "authorization",
+        "role",
+        "permission",
+        "access control",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Authorization",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Authorization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "authorization",
+        "role",
+        "permission",
+        "access control",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Authorization",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Authorization in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "authorization",
+        "role",
+        "permission",
+        "access control",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Web vulnerabilities",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Web vulnerabilities, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "sql injection",
+        "input validation",
+        "sanitization"
+      ]
+    },
+    {
+      "topic": "Web vulnerabilities",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Web vulnerabilities. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "sql injection",
+        "input validation",
+        "sanitization"
+      ]
+    },
+    {
+      "topic": "Web vulnerabilities",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Web vulnerabilities in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "sql injection",
+        "input validation",
+        "sanitization"
+      ]
+    },
+    {
+      "topic": "Encryption",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Encryption, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "encryption",
+        "symmetric",
+        "asymmetric",
+        "key",
+        "cipher"
+      ]
+    },
+    {
+      "topic": "Encryption",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Encryption. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "encryption",
+        "symmetric",
+        "asymmetric",
+        "key",
+        "cipher"
+      ]
+    },
+    {
+      "topic": "Encryption",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Encryption in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "encryption",
+        "symmetric",
+        "asymmetric",
+        "key",
+        "cipher"
+      ]
+    },
+    {
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Hashing, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "hash",
+        "password",
+        "salt",
+        "one way",
+        "integrity"
+      ]
+    },
+    {
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Hashing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "hash",
+        "password",
+        "salt",
+        "one way",
+        "integrity"
+      ]
+    },
+    {
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Hashing in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "hash",
+        "password",
+        "salt",
+        "one way",
+        "integrity"
+      ]
+    },
+    {
+      "topic": "Network security",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Network security, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "firewall",
+        "network",
+        "port",
+        "protocol",
+        "segmentation"
+      ]
+    },
+    {
+      "topic": "Network security",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Network security. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "firewall",
+        "network",
+        "port",
+        "protocol",
+        "segmentation"
+      ]
+    },
+    {
+      "topic": "Network security",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Network security in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "firewall",
+        "network",
+        "port",
+        "protocol",
+        "segmentation"
+      ]
+    },
+    {
+      "topic": "Secure coding",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Secure coding, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "validation",
+        "secrets",
+        "dependency",
+        "logging",
+        "secure"
+      ]
+    },
+    {
+      "topic": "Secure coding",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Secure coding. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "validation",
+        "secrets",
+        "dependency",
+        "logging",
+        "secure"
+      ]
+    },
+    {
+      "topic": "Secure coding",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Secure coding in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "validation",
+        "secrets",
+        "dependency",
+        "logging",
+        "secure"
+      ]
+    },
+    {
+      "topic": "Incident response",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Incident response, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "incident",
+        "detect",
+        "contain",
+        "eradicate",
+        "recover"
+      ]
+    },
+    {
+      "topic": "Incident response",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Incident response. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "incident",
+        "detect",
+        "contain",
+        "eradicate",
+        "recover"
+      ]
+    },
+    {
+      "topic": "Incident response",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Incident response in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "incident",
+        "detect",
+        "contain",
+        "eradicate",
+        "recover"
+      ]
+    },
+    {
+      "topic": "Threat modeling",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Threat modeling, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "threat",
+        "asset",
+        "risk",
+        "attack surface",
+        "mitigation"
+      ]
+    },
+    {
+      "topic": "Threat modeling",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Threat modeling. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "threat",
+        "asset",
+        "risk",
+        "attack surface",
+        "mitigation"
+      ]
+    },
+    {
+      "topic": "Threat modeling",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Threat modeling in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "threat",
+        "asset",
+        "risk",
+        "attack surface",
+        "mitigation"
+      ]
+    },
+    {
+      "topic": "Security monitoring",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Security monitoring, and why is it important in cybersecurity? Give a concise example.",
+      "expected_concepts": [
+        "log",
+        "siem",
+        "alert",
+        "anomaly",
+        "monitoring"
+      ]
+    },
+    {
+      "topic": "Security monitoring",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a cybersecurity project and need to use Security monitoring. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "log",
+        "siem",
+        "alert",
+        "anomaly",
+        "monitoring"
+      ]
+    },
+    {
+      "topic": "Security monitoring",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Security monitoring in cybersecurity, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "log",
+        "siem",
+        "alert",
+        "anomaly",
+        "monitoring"
+      ]
+    }
+  ]
+}

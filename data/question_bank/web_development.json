@@ -1,0 +1,393 @@
+{
+  "domain": "Web Development",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "HTTP and web fundamentals",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is HTTP and web fundamentals, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "http",
+        "request",
+        "response",
+        "status code",
+        "client"
+      ]
+    },
+    {
+      "topic": "HTTP and web fundamentals",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use HTTP and web fundamentals. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "http",
+        "request",
+        "response",
+        "status code",
+        "client"
+      ]
+    },
+    {
+      "topic": "HTTP and web fundamentals",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For HTTP and web fundamentals in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "http",
+        "request",
+        "response",
+        "status code",
+        "client"
+      ]
+    },
+    {
+      "topic": "HTML semantics",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is HTML semantics, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "semantic",
+        "html",
+        "accessibility",
+        "form",
+        "structure"
+      ]
+    },
+    {
+      "topic": "HTML semantics",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use HTML semantics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "semantic",
+        "html",
+        "accessibility",
+        "form",
+        "structure"
+      ]
+    },
+    {
+      "topic": "HTML semantics",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For HTML semantics in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "semantic",
+        "html",
+        "accessibility",
+        "form",
+        "structure"
+      ]
+    },
+    {
+      "topic": "CSS responsive design",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is CSS responsive design, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "css",
+        "flexbox",
+        "grid",
+        "media query",
+        "responsive"
+      ]
+    },
+    {
+      "topic": "CSS responsive design",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use CSS responsive design. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "css",
+        "flexbox",
+        "grid",
+        "media query",
+        "responsive"
+      ]
+    },
+    {
+      "topic": "CSS responsive design",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For CSS responsive design in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "css",
+        "flexbox",
+        "grid",
+        "media query",
+        "responsive"
+      ]
+    },
+    {
+      "topic": "JavaScript fundamentals",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is JavaScript fundamentals, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "javascript",
+        "scope",
+        "closure",
+        "promise",
+        "event"
+      ]
+    },
+    {
+      "topic": "JavaScript fundamentals",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use JavaScript fundamentals. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "javascript",
+        "scope",
+        "closure",
+        "promise",
+        "event"
+      ]
+    },
+    {
+      "topic": "JavaScript fundamentals",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For JavaScript fundamentals in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "javascript",
+        "scope",
+        "closure",
+        "promise",
+        "event"
+      ]
+    },
+    {
+      "topic": "DOM and browser events",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is DOM and browser events, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "dom",
+        "event listener",
+        "element",
+        "event propagation"
+      ]
+    },
+    {
+      "topic": "DOM and browser events",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use DOM and browser events. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "dom",
+        "event listener",
+        "element",
+        "event propagation"
+      ]
+    },
+    {
+      "topic": "DOM and browser events",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For DOM and browser events in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "dom",
+        "event listener",
+        "element",
+        "event propagation"
+      ]
+    },
+    {
+      "topic": "REST API integration",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is REST API integration, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "api",
+        "fetch",
+        "json",
+        "authentication",
+        "error handling"
+      ]
+    },
+    {
+      "topic": "REST API integration",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use REST API integration. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "api",
+        "fetch",
+        "json",
+        "authentication",
+        "error handling"
+      ]
+    },
+    {
+      "topic": "REST API integration",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For REST API integration in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "api",
+        "fetch",
+        "json",
+        "authentication",
+        "error handling"
+      ]
+    },
+    {
+      "topic": "Frontend performance",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Frontend performance, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "lazy loading",
+        "bundle",
+        "caching",
+        "rendering",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Frontend performance",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use Frontend performance. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "lazy loading",
+        "bundle",
+        "caching",
+        "rendering",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Frontend performance",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Frontend performance in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "lazy loading",
+        "bundle",
+        "caching",
+        "rendering",
+        "performance"
+      ]
+    },
+    {
+      "topic": "Web security",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Web security, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "authentication",
+        "authorization",
+        "input validation"
+      ]
+    },
+    {
+      "topic": "Web security",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use Web security. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "authentication",
+        "authorization",
+        "input validation"
+      ]
+    },
+    {
+      "topic": "Web security",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Web security in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "xss",
+        "csrf",
+        "authentication",
+        "authorization",
+        "input validation"
+      ]
+    },
+    {
+      "topic": "Accessibility",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Accessibility, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "wcag",
+        "keyboard",
+        "aria",
+        "screen reader",
+        "contrast"
+      ]
+    },
+    {
+      "topic": "Accessibility",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use Accessibility. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "wcag",
+        "keyboard",
+        "aria",
+        "screen reader",
+        "contrast"
+      ]
+    },
+    {
+      "topic": "Accessibility",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Accessibility in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "wcag",
+        "keyboard",
+        "aria",
+        "screen reader",
+        "contrast"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Deployment, and why is it important in web development? Give a concise example.",
+      "expected_concepts": [
+        "build",
+        "environment variable",
+        "hosting",
+        "https",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a web development project and need to use Deployment. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "build",
+        "environment variable",
+        "hosting",
+        "https",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Deployment in web development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "build",
+        "environment variable",
+        "hosting",
+        "https",
+        "deployment"
+      ]
+    }
+  ]
+}

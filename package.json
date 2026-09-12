@@ -1,0 +1,9 @@
+{
+  "name": "ai-interviewer",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "backend": "python -m uvicorn app.main:app --reload --app-dir backend"
+  }
+}

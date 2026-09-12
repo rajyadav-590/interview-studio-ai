@@ -1,0 +1,4 @@
+# Optional research stack for the final-year project.
+# Install only if you want to experiment with the PyTorch audio model.
+torch>=2.2
+librosa>=0.10

@@ -1,0 +1,396 @@
+{
+  "domain": "AI / NLP",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Tokenization",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Tokenization, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "token",
+        "text",
+        "word",
+        "subword",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Tokenization",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Tokenization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "token",
+        "text",
+        "word",
+        "subword",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Tokenization",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Tokenization in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "token",
+        "text",
+        "word",
+        "subword",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Embeddings",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Embeddings, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "embedding",
+        "vector",
+        "semantic",
+        "similarity",
+        "representation"
+      ]
+    },
+    {
+      "topic": "Embeddings",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Embeddings. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "embedding",
+        "vector",
+        "semantic",
+        "similarity",
+        "representation"
+      ]
+    },
+    {
+      "topic": "Embeddings",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Embeddings in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "embedding",
+        "vector",
+        "semantic",
+        "similarity",
+        "representation"
+      ]
+    },
+    {
+      "topic": "TF-IDF",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is TF-IDF, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "tf idf",
+        "term frequency",
+        "inverse document frequency",
+        "weight",
+        "document"
+      ]
+    },
+    {
+      "topic": "TF-IDF",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use TF-IDF. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "tf idf",
+        "term frequency",
+        "inverse document frequency",
+        "weight",
+        "document"
+      ]
+    },
+    {
+      "topic": "TF-IDF",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For TF-IDF in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "tf idf",
+        "term frequency",
+        "inverse document frequency",
+        "weight",
+        "document"
+      ]
+    },
+    {
+      "topic": "Text classification",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Text classification, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "classification",
+        "label",
+        "features",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Text classification",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Text classification. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "classification",
+        "label",
+        "features",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Text classification",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Text classification in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "classification",
+        "label",
+        "features",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Named entity recognition",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Named entity recognition, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "entity",
+        "person",
+        "organization",
+        "location",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Named entity recognition",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Named entity recognition. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "entity",
+        "person",
+        "organization",
+        "location",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Named entity recognition",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Named entity recognition in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "entity",
+        "person",
+        "organization",
+        "location",
+        "sequence"
+      ]
+    },
+    {
+      "topic": "Sentiment analysis",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Sentiment analysis, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "sentiment",
+        "positive",
+        "negative",
+        "text",
+        "classification"
+      ]
+    },
+    {
+      "topic": "Sentiment analysis",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Sentiment analysis. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "sentiment",
+        "positive",
+        "negative",
+        "text",
+        "classification"
+      ]
+    },
+    {
+      "topic": "Sentiment analysis",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Sentiment analysis in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "sentiment",
+        "positive",
+        "negative",
+        "text",
+        "classification"
+      ]
+    },
+    {
+      "topic": "Attention",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Attention, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "attention",
+        "query",
+        "key",
+        "value",
+        "context"
+      ]
+    },
+    {
+      "topic": "Attention",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Attention. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "attention",
+        "query",
+        "key",
+        "value",
+        "context"
+      ]
+    },
+    {
+      "topic": "Attention",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Attention in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "attention",
+        "query",
+        "key",
+        "value",
+        "context"
+      ]
+    },
+    {
+      "topic": "LLMs",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is LLMs, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "language model",
+        "token",
+        "transformer",
+        "context",
+        "generation"
+      ]
+    },
+    {
+      "topic": "LLMs",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use LLMs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "language model",
+        "token",
+        "transformer",
+        "context",
+        "generation"
+      ]
+    },
+    {
+      "topic": "LLMs",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For LLMs in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "language model",
+        "token",
+        "transformer",
+        "context",
+        "generation"
+      ]
+    },
+    {
+      "topic": "Prompt engineering",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Prompt engineering, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "prompt",
+        "context",
+        "instruction",
+        "output",
+        "constraint"
+      ]
+    },
+    {
+      "topic": "Prompt engineering",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use Prompt engineering. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "prompt",
+        "context",
+        "instruction",
+        "output",
+        "constraint"
+      ]
+    },
+    {
+      "topic": "Prompt engineering",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Prompt engineering in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "prompt",
+        "context",
+        "instruction",
+        "output",
+        "constraint"
+      ]
+    },
+    {
+      "topic": "NLP evaluation",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is NLP evaluation, and why is it important in ai / nlp? Give a concise example.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "ground truth",
+        "evaluation"
+      ]
+    },
+    {
+      "topic": "NLP evaluation",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a ai / nlp project and need to use NLP evaluation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "ground truth",
+        "evaluation"
+      ]
+    },
+    {
+      "topic": "NLP evaluation",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For NLP evaluation in ai / nlp, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "ground truth",
+        "evaluation"
+      ]
+    }
+  ]
+}

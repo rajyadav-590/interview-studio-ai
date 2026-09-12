@@ -1,0 +1,396 @@
+{
+  "domain": "Python Development",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Python data structures",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Python data structures, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "list",
+        "tuple",
+        "set",
+        "dictionary",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Python data structures",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Python data structures. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "list",
+        "tuple",
+        "set",
+        "dictionary",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Python data structures",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Python data structures in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "list",
+        "tuple",
+        "set",
+        "dictionary",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Functions and scope",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Functions and scope, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "function",
+        "parameter",
+        "scope",
+        "return",
+        "lambda"
+      ]
+    },
+    {
+      "topic": "Functions and scope",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Functions and scope. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "function",
+        "parameter",
+        "scope",
+        "return",
+        "lambda"
+      ]
+    },
+    {
+      "topic": "Functions and scope",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Functions and scope in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "function",
+        "parameter",
+        "scope",
+        "return",
+        "lambda"
+      ]
+    },
+    {
+      "topic": "Object-oriented Python",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Object-oriented Python, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "inheritance",
+        "method",
+        "encapsulation"
+      ]
+    },
+    {
+      "topic": "Object-oriented Python",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Object-oriented Python. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "inheritance",
+        "method",
+        "encapsulation"
+      ]
+    },
+    {
+      "topic": "Object-oriented Python",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Object-oriented Python in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "inheritance",
+        "method",
+        "encapsulation"
+      ]
+    },
+    {
+      "topic": "Exceptions",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Exceptions, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "try",
+        "except",
+        "finally",
+        "exception",
+        "custom"
+      ]
+    },
+    {
+      "topic": "Exceptions",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Exceptions. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "try",
+        "except",
+        "finally",
+        "exception",
+        "custom"
+      ]
+    },
+    {
+      "topic": "Exceptions",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Exceptions in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "try",
+        "except",
+        "finally",
+        "exception",
+        "custom"
+      ]
+    },
+    {
+      "topic": "Iterators and generators",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Iterators and generators, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "iterator",
+        "generator",
+        "yield",
+        "lazy",
+        "iteration"
+      ]
+    },
+    {
+      "topic": "Iterators and generators",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Iterators and generators. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "iterator",
+        "generator",
+        "yield",
+        "lazy",
+        "iteration"
+      ]
+    },
+    {
+      "topic": "Iterators and generators",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Iterators and generators in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "iterator",
+        "generator",
+        "yield",
+        "lazy",
+        "iteration"
+      ]
+    },
+    {
+      "topic": "Decorators",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Decorators, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "decorator",
+        "wrapper",
+        "function",
+        "closure",
+        "@"
+      ]
+    },
+    {
+      "topic": "Decorators",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Decorators. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "decorator",
+        "wrapper",
+        "function",
+        "closure",
+        "@"
+      ]
+    },
+    {
+      "topic": "Decorators",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Decorators in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "decorator",
+        "wrapper",
+        "function",
+        "closure",
+        "@"
+      ]
+    },
+    {
+      "topic": "Virtual environments",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Virtual environments, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "venv",
+        "pip",
+        "dependency",
+        "requirements",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Virtual environments",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Virtual environments. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "venv",
+        "pip",
+        "dependency",
+        "requirements",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Virtual environments",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Virtual environments in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "venv",
+        "pip",
+        "dependency",
+        "requirements",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Testing Python",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Testing Python, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "pytest",
+        "unit test",
+        "mock",
+        "assert",
+        "fixture"
+      ]
+    },
+    {
+      "topic": "Testing Python",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Testing Python. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "pytest",
+        "unit test",
+        "mock",
+        "assert",
+        "fixture"
+      ]
+    },
+    {
+      "topic": "Testing Python",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Testing Python in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "pytest",
+        "unit test",
+        "mock",
+        "assert",
+        "fixture"
+      ]
+    },
+    {
+      "topic": "APIs with Python",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is APIs with Python, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "fastapi",
+        "flask",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "APIs with Python",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use APIs with Python. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "fastapi",
+        "flask",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "APIs with Python",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For APIs with Python in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "fastapi",
+        "flask",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "Python performance",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Python performance, and why is it important in python development? Give a concise example.",
+      "expected_concepts": [
+        "profiling",
+        "complexity",
+        "memory",
+        "caching",
+        "optimization"
+      ]
+    },
+    {
+      "topic": "Python performance",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a python development project and need to use Python performance. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "profiling",
+        "complexity",
+        "memory",
+        "caching",
+        "optimization"
+      ]
+    },
+    {
+      "topic": "Python performance",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Python performance in python development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "profiling",
+        "complexity",
+        "memory",
+        "caching",
+        "optimization"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "domain": "Data Science",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Data preprocessing",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Data preprocessing, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "missing values",
+        "encoding",
+        "scaling",
+        "outliers",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "Data preprocessing",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Data preprocessing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "missing values",
+        "encoding",
+        "scaling",
+        "outliers",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "Data preprocessing",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Data preprocessing in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "missing values",
+        "encoding",
+        "scaling",
+        "outliers",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "Exploratory data analysis",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Exploratory data analysis, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "eda",
+        "distribution",
+        "correlation",
+        "visualization",
+        "outlier"
+      ]
+    },
+    {
+      "topic": "Exploratory data analysis",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Exploratory data analysis. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "eda",
+        "distribution",
+        "correlation",
+        "visualization",
+        "outlier"
+      ]
+    },
+    {
+      "topic": "Exploratory data analysis",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Exploratory data analysis in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "eda",
+        "distribution",
+        "correlation",
+        "visualization",
+        "outlier"
+      ]
+    },
+    {
+      "topic": "Statistics",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Statistics, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "mean",
+        "median",
+        "variance",
+        "standard deviation",
+        "distribution"
+      ]
+    },
+    {
+      "topic": "Statistics",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Statistics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "mean",
+        "median",
+        "variance",
+        "standard deviation",
+        "distribution"
+      ]
+    },
+    {
+      "topic": "Statistics",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Statistics in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "mean",
+        "median",
+        "variance",
+        "standard deviation",
+        "distribution"
+      ]
+    },
+    {
+      "topic": "Probability",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Probability, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "probability",
+        "conditional",
+        "independence",
+        "bayes",
+        "event"
+      ]
+    },
+    {
+      "topic": "Probability",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Probability. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "probability",
+        "conditional",
+        "independence",
+        "bayes",
+        "event"
+      ]
+    },
+    {
+      "topic": "Probability",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Probability in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "probability",
+        "conditional",
+        "independence",
+        "bayes",
+        "event"
+      ]
+    },
+    {
+      "topic": "Feature engineering",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Feature engineering, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "feature",
+        "transformation",
+        "encoding",
+        "selection",
+        "domain"
+      ]
+    },
+    {
+      "topic": "Feature engineering",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Feature engineering. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "feature",
+        "transformation",
+        "encoding",
+        "selection",
+        "domain"
+      ]
+    },
+    {
+      "topic": "Feature engineering",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Feature engineering in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "feature",
+        "transformation",
+        "encoding",
+        "selection",
+        "domain"
+      ]
+    },
+    {
+      "topic": "Model evaluation",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Model evaluation, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "train",
+        "test",
+        "cross validation",
+        "metric",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Model evaluation",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Model evaluation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "train",
+        "test",
+        "cross validation",
+        "metric",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Model evaluation",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Model evaluation in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "train",
+        "test",
+        "cross validation",
+        "metric",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Data leakage",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Data leakage, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "leakage",
+        "training",
+        "test",
+        "future information",
+        "validation"
+      ]
+    },
+    {
+      "topic": "Data leakage",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Data leakage. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "leakage",
+        "training",
+        "test",
+        "future information",
+        "validation"
+      ]
+    },
+    {
+      "topic": "Data leakage",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Data leakage in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "leakage",
+        "training",
+        "test",
+        "future information",
+        "validation"
+      ]
+    },
+    {
+      "topic": "Pandas",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Pandas, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "dataframe",
+        "series",
+        "groupby",
+        "merge",
+        "filter"
+      ]
+    },
+    {
+      "topic": "Pandas",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Pandas. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "dataframe",
+        "series",
+        "groupby",
+        "merge",
+        "filter"
+      ]
+    },
+    {
+      "topic": "Pandas",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Pandas in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "dataframe",
+        "series",
+        "groupby",
+        "merge",
+        "filter"
+      ]
+    },
+    {
+      "topic": "NumPy",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is NumPy, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "array",
+        "vectorization",
+        "broadcasting",
+        "shape",
+        "numpy"
+      ]
+    },
+    {
+      "topic": "NumPy",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use NumPy. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "array",
+        "vectorization",
+        "broadcasting",
+        "shape",
+        "numpy"
+      ]
+    },
+    {
+      "topic": "NumPy",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For NumPy in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "array",
+        "vectorization",
+        "broadcasting",
+        "shape",
+        "numpy"
+      ]
+    },
+    {
+      "topic": "Data visualization",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Data visualization, and why is it important in data science? Give a concise example.",
+      "expected_concepts": [
+        "chart",
+        "plot",
+        "axis",
+        "distribution",
+        "insight"
+      ]
+    },
+    {
+      "topic": "Data visualization",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data science project and need to use Data visualization. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "chart",
+        "plot",
+        "axis",
+        "distribution",
+        "insight"
+      ]
+    },
+    {
+      "topic": "Data visualization",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Data visualization in data science, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "chart",
+        "plot",
+        "axis",
+        "distribution",
+        "insight"
+      ]
+    }
+  ]
+}

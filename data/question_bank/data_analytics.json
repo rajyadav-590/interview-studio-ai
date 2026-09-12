@@ -1,0 +1,396 @@
+{
+  "domain": "Data Analytics",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Data cleaning",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Data cleaning, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "missing values",
+        "duplicates",
+        "outliers",
+        "validation",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "Data cleaning",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Data cleaning. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "missing values",
+        "duplicates",
+        "outliers",
+        "validation",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "Data cleaning",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Data cleaning in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "missing values",
+        "duplicates",
+        "outliers",
+        "validation",
+        "cleaning"
+      ]
+    },
+    {
+      "topic": "SQL analytics",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is SQL analytics, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "select",
+        "join",
+        "group by",
+        "having",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "SQL analytics",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use SQL analytics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "select",
+        "join",
+        "group by",
+        "having",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "SQL analytics",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For SQL analytics in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "select",
+        "join",
+        "group by",
+        "having",
+        "aggregate"
+      ]
+    },
+    {
+      "topic": "KPI design",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is KPI design, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "kpi",
+        "metric",
+        "target",
+        "business objective",
+        "measurement"
+      ]
+    },
+    {
+      "topic": "KPI design",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use KPI design. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "kpi",
+        "metric",
+        "target",
+        "business objective",
+        "measurement"
+      ]
+    },
+    {
+      "topic": "KPI design",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For KPI design in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "kpi",
+        "metric",
+        "target",
+        "business objective",
+        "measurement"
+      ]
+    },
+    {
+      "topic": "Dashboard design",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Dashboard design, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "dashboard",
+        "visualization",
+        "filter",
+        "kpi",
+        "user"
+      ]
+    },
+    {
+      "topic": "Dashboard design",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Dashboard design. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "dashboard",
+        "visualization",
+        "filter",
+        "kpi",
+        "user"
+      ]
+    },
+    {
+      "topic": "Dashboard design",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Dashboard design in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "dashboard",
+        "visualization",
+        "filter",
+        "kpi",
+        "user"
+      ]
+    },
+    {
+      "topic": "Excel analysis",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Excel analysis, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "pivot table",
+        "formula",
+        "lookup",
+        "chart",
+        "spreadsheet"
+      ]
+    },
+    {
+      "topic": "Excel analysis",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Excel analysis. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "pivot table",
+        "formula",
+        "lookup",
+        "chart",
+        "spreadsheet"
+      ]
+    },
+    {
+      "topic": "Excel analysis",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Excel analysis in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "pivot table",
+        "formula",
+        "lookup",
+        "chart",
+        "spreadsheet"
+      ]
+    },
+    {
+      "topic": "Power BI",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Power BI, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "power bi",
+        "model",
+        "measure",
+        "dax",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Power BI",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Power BI. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "power bi",
+        "model",
+        "measure",
+        "dax",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Power BI",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Power BI in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "power bi",
+        "model",
+        "measure",
+        "dax",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Trend analysis",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Trend analysis, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "trend",
+        "time series",
+        "growth",
+        "seasonality",
+        "comparison"
+      ]
+    },
+    {
+      "topic": "Trend analysis",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Trend analysis. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "trend",
+        "time series",
+        "growth",
+        "seasonality",
+        "comparison"
+      ]
+    },
+    {
+      "topic": "Trend analysis",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Trend analysis in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "trend",
+        "time series",
+        "growth",
+        "seasonality",
+        "comparison"
+      ]
+    },
+    {
+      "topic": "Customer analysis",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Customer analysis, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "customer",
+        "segmentation",
+        "behavior",
+        "retention",
+        "cohort"
+      ]
+    },
+    {
+      "topic": "Customer analysis",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Customer analysis. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "customer",
+        "segmentation",
+        "behavior",
+        "retention",
+        "cohort"
+      ]
+    },
+    {
+      "topic": "Customer analysis",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Customer analysis in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "customer",
+        "segmentation",
+        "behavior",
+        "retention",
+        "cohort"
+      ]
+    },
+    {
+      "topic": "A/B testing",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is A/B testing, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "control",
+        "treatment",
+        "hypothesis",
+        "statistical significance",
+        "experiment"
+      ]
+    },
+    {
+      "topic": "A/B testing",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use A/B testing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "control",
+        "treatment",
+        "hypothesis",
+        "statistical significance",
+        "experiment"
+      ]
+    },
+    {
+      "topic": "A/B testing",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For A/B testing in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "control",
+        "treatment",
+        "hypothesis",
+        "statistical significance",
+        "experiment"
+      ]
+    },
+    {
+      "topic": "Data storytelling",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Data storytelling, and why is it important in data analytics? Give a concise example.",
+      "expected_concepts": [
+        "insight",
+        "context",
+        "visual",
+        "audience",
+        "recommendation"
+      ]
+    },
+    {
+      "topic": "Data storytelling",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a data analytics project and need to use Data storytelling. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "insight",
+        "context",
+        "visual",
+        "audience",
+        "recommendation"
+      ]
+    },
+    {
+      "topic": "Data storytelling",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Data storytelling in data analytics, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "insight",
+        "context",
+        "visual",
+        "audience",
+        "recommendation"
+      ]
+    }
+  ]
+}

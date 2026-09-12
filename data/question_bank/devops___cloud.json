@@ -1,0 +1,396 @@
+{
+  "domain": "DevOps / Cloud",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "CI/CD",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is CI/CD, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "continuous integration",
+        "continuous deployment",
+        "pipeline",
+        "build",
+        "test"
+      ]
+    },
+    {
+      "topic": "CI/CD",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use CI/CD. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "continuous integration",
+        "continuous deployment",
+        "pipeline",
+        "build",
+        "test"
+      ]
+    },
+    {
+      "topic": "CI/CD",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For CI/CD in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "continuous integration",
+        "continuous deployment",
+        "pipeline",
+        "build",
+        "test"
+      ]
+    },
+    {
+      "topic": "Docker",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Docker, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "container",
+        "image",
+        "dockerfile",
+        "registry",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Docker",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Docker. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "container",
+        "image",
+        "dockerfile",
+        "registry",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Docker",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Docker in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "container",
+        "image",
+        "dockerfile",
+        "registry",
+        "isolation"
+      ]
+    },
+    {
+      "topic": "Kubernetes",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Kubernetes, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "pod",
+        "deployment",
+        "service",
+        "cluster",
+        "container"
+      ]
+    },
+    {
+      "topic": "Kubernetes",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Kubernetes. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "pod",
+        "deployment",
+        "service",
+        "cluster",
+        "container"
+      ]
+    },
+    {
+      "topic": "Kubernetes",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Kubernetes in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "pod",
+        "deployment",
+        "service",
+        "cluster",
+        "container"
+      ]
+    },
+    {
+      "topic": "Cloud fundamentals",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Cloud fundamentals, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "cloud",
+        "compute",
+        "storage",
+        "network",
+        "scaling"
+      ]
+    },
+    {
+      "topic": "Cloud fundamentals",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Cloud fundamentals. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "cloud",
+        "compute",
+        "storage",
+        "network",
+        "scaling"
+      ]
+    },
+    {
+      "topic": "Cloud fundamentals",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Cloud fundamentals in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "cloud",
+        "compute",
+        "storage",
+        "network",
+        "scaling"
+      ]
+    },
+    {
+      "topic": "AWS architecture",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is AWS architecture, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "aws",
+        "ec2",
+        "s3",
+        "iam",
+        "vpc"
+      ]
+    },
+    {
+      "topic": "AWS architecture",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use AWS architecture. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "aws",
+        "ec2",
+        "s3",
+        "iam",
+        "vpc"
+      ]
+    },
+    {
+      "topic": "AWS architecture",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For AWS architecture in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "aws",
+        "ec2",
+        "s3",
+        "iam",
+        "vpc"
+      ]
+    },
+    {
+      "topic": "Infrastructure as code",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Infrastructure as code, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "infrastructure as code",
+        "terraform",
+        "configuration",
+        "version control",
+        "automation"
+      ]
+    },
+    {
+      "topic": "Infrastructure as code",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Infrastructure as code. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "infrastructure as code",
+        "terraform",
+        "configuration",
+        "version control",
+        "automation"
+      ]
+    },
+    {
+      "topic": "Infrastructure as code",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Infrastructure as code in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "infrastructure as code",
+        "terraform",
+        "configuration",
+        "version control",
+        "automation"
+      ]
+    },
+    {
+      "topic": "Monitoring",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Monitoring, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "metrics",
+        "logs",
+        "alerts",
+        "observability",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Monitoring",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Monitoring. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "metrics",
+        "logs",
+        "alerts",
+        "observability",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Monitoring",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Monitoring in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "metrics",
+        "logs",
+        "alerts",
+        "observability",
+        "dashboard"
+      ]
+    },
+    {
+      "topic": "Secrets management",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Secrets management, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "secret",
+        "environment variable",
+        "vault",
+        "key",
+        "rotation"
+      ]
+    },
+    {
+      "topic": "Secrets management",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Secrets management. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "secret",
+        "environment variable",
+        "vault",
+        "key",
+        "rotation"
+      ]
+    },
+    {
+      "topic": "Secrets management",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Secrets management in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "secret",
+        "environment variable",
+        "vault",
+        "key",
+        "rotation"
+      ]
+    },
+    {
+      "topic": "Scalability",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Scalability, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "load balancing",
+        "horizontal scaling",
+        "vertical scaling",
+        "autoscaling",
+        "capacity"
+      ]
+    },
+    {
+      "topic": "Scalability",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Scalability. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "load balancing",
+        "horizontal scaling",
+        "vertical scaling",
+        "autoscaling",
+        "capacity"
+      ]
+    },
+    {
+      "topic": "Scalability",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Scalability in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "load balancing",
+        "horizontal scaling",
+        "vertical scaling",
+        "autoscaling",
+        "capacity"
+      ]
+    },
+    {
+      "topic": "Deployment strategies",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Deployment strategies, and why is it important in devops / cloud? Give a concise example.",
+      "expected_concepts": [
+        "blue green",
+        "canary",
+        "rollback",
+        "release",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment strategies",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a devops / cloud project and need to use Deployment strategies. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "blue green",
+        "canary",
+        "rollback",
+        "release",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment strategies",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Deployment strategies in devops / cloud, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "blue green",
+        "canary",
+        "rollback",
+        "release",
+        "deployment"
+      ]
+    }
+  ]
+}

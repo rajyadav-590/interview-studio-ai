@@ -1,0 +1,396 @@
+{
+  "domain": "Software Development",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Version control, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Version control. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Version control in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Object-oriented programming",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Object-oriented programming, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "Object-oriented programming",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Object-oriented programming. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "Object-oriented programming",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Object-oriented programming in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "SOLID principles",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is SOLID principles, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "single responsibility",
+        "open closed",
+        "liskov",
+        "interface segregation",
+        "dependency inversion"
+      ]
+    },
+    {
+      "topic": "SOLID principles",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use SOLID principles. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "single responsibility",
+        "open closed",
+        "liskov",
+        "interface segregation",
+        "dependency inversion"
+      ]
+    },
+    {
+      "topic": "SOLID principles",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For SOLID principles in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "single responsibility",
+        "open closed",
+        "liskov",
+        "interface segregation",
+        "dependency inversion"
+      ]
+    },
+    {
+      "topic": "Software testing",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Software testing, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "test case",
+        "mock",
+        "regression"
+      ]
+    },
+    {
+      "topic": "Software testing",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Software testing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "test case",
+        "mock",
+        "regression"
+      ]
+    },
+    {
+      "topic": "Software testing",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Software testing in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "test case",
+        "mock",
+        "regression"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Debugging, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "isolate",
+        "root cause"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Debugging. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "isolate",
+        "root cause"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Debugging in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "isolate",
+        "root cause"
+      ]
+    },
+    {
+      "topic": "REST APIs",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is REST APIs, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "http",
+        "get",
+        "post",
+        "status code",
+        "json"
+      ]
+    },
+    {
+      "topic": "REST APIs",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use REST APIs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "http",
+        "get",
+        "post",
+        "status code",
+        "json"
+      ]
+    },
+    {
+      "topic": "REST APIs",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For REST APIs in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "http",
+        "get",
+        "post",
+        "status code",
+        "json"
+      ]
+    },
+    {
+      "topic": "Error handling",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Error handling, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "exception",
+        "validation",
+        "logging",
+        "error response",
+        "recovery"
+      ]
+    },
+    {
+      "topic": "Error handling",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Error handling. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "exception",
+        "validation",
+        "logging",
+        "error response",
+        "recovery"
+      ]
+    },
+    {
+      "topic": "Error handling",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Error handling in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "exception",
+        "validation",
+        "logging",
+        "error response",
+        "recovery"
+      ]
+    },
+    {
+      "topic": "Database design",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Database design, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "normalization",
+        "primary key",
+        "foreign key",
+        "index",
+        "transaction"
+      ]
+    },
+    {
+      "topic": "Database design",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Database design. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "normalization",
+        "primary key",
+        "foreign key",
+        "index",
+        "transaction"
+      ]
+    },
+    {
+      "topic": "Database design",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Database design in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "normalization",
+        "primary key",
+        "foreign key",
+        "index",
+        "transaction"
+      ]
+    },
+    {
+      "topic": "Code review",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Code review, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "review",
+        "readability",
+        "bug",
+        "security",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Code review",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Code review. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "review",
+        "readability",
+        "bug",
+        "security",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Code review",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Code review in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "review",
+        "readability",
+        "bug",
+        "security",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Software architecture",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Software architecture, and why is it important in software development? Give a concise example.",
+      "expected_concepts": [
+        "separation of concerns",
+        "modularity",
+        "scalability",
+        "layer",
+        "dependency"
+      ]
+    },
+    {
+      "topic": "Software architecture",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a software development project and need to use Software architecture. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "separation of concerns",
+        "modularity",
+        "scalability",
+        "layer",
+        "dependency"
+      ]
+    },
+    {
+      "topic": "Software architecture",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Software architecture in software development, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "separation of concerns",
+        "modularity",
+        "scalability",
+        "layer",
+        "dependency"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "domain": "Machine Learning",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Supervised learning",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Supervised learning, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "labeled data",
+        "features",
+        "target",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Supervised learning",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Supervised learning. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "labeled data",
+        "features",
+        "target",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Supervised learning",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Supervised learning in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "labeled data",
+        "features",
+        "target",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Unsupervised learning",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Unsupervised learning, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "unlabeled",
+        "clustering",
+        "patterns",
+        "groups",
+        "dimensionality"
+      ]
+    },
+    {
+      "topic": "Unsupervised learning",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Unsupervised learning. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "unlabeled",
+        "clustering",
+        "patterns",
+        "groups",
+        "dimensionality"
+      ]
+    },
+    {
+      "topic": "Unsupervised learning",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Unsupervised learning in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "unlabeled",
+        "clustering",
+        "patterns",
+        "groups",
+        "dimensionality"
+      ]
+    },
+    {
+      "topic": "Linear regression",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Linear regression, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "regression",
+        "continuous",
+        "features",
+        "coefficient",
+        "loss"
+      ]
+    },
+    {
+      "topic": "Linear regression",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Linear regression. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "regression",
+        "continuous",
+        "features",
+        "coefficient",
+        "loss"
+      ]
+    },
+    {
+      "topic": "Linear regression",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Linear regression in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "regression",
+        "continuous",
+        "features",
+        "coefficient",
+        "loss"
+      ]
+    },
+    {
+      "topic": "Logistic regression",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Logistic regression, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "classification",
+        "probability",
+        "sigmoid",
+        "binary",
+        "threshold"
+      ]
+    },
+    {
+      "topic": "Logistic regression",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Logistic regression. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "classification",
+        "probability",
+        "sigmoid",
+        "binary",
+        "threshold"
+      ]
+    },
+    {
+      "topic": "Logistic regression",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Logistic regression in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "classification",
+        "probability",
+        "sigmoid",
+        "binary",
+        "threshold"
+      ]
+    },
+    {
+      "topic": "Decision trees",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Decision trees, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "tree",
+        "split",
+        "feature",
+        "impurity",
+        "leaf"
+      ]
+    },
+    {
+      "topic": "Decision trees",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Decision trees. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "tree",
+        "split",
+        "feature",
+        "impurity",
+        "leaf"
+      ]
+    },
+    {
+      "topic": "Decision trees",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Decision trees in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "tree",
+        "split",
+        "feature",
+        "impurity",
+        "leaf"
+      ]
+    },
+    {
+      "topic": "Random forests",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Random forests, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "ensemble",
+        "trees",
+        "bootstrap",
+        "random features",
+        "voting"
+      ]
+    },
+    {
+      "topic": "Random forests",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Random forests. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "ensemble",
+        "trees",
+        "bootstrap",
+        "random features",
+        "voting"
+      ]
+    },
+    {
+      "topic": "Random forests",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Random forests in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "ensemble",
+        "trees",
+        "bootstrap",
+        "random features",
+        "voting"
+      ]
+    },
+    {
+      "topic": "Overfitting",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Overfitting, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "overfitting",
+        "generalization",
+        "validation",
+        "regularization",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Overfitting",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Overfitting. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "overfitting",
+        "generalization",
+        "validation",
+        "regularization",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Overfitting",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Overfitting in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "overfitting",
+        "generalization",
+        "validation",
+        "regularization",
+        "complexity"
+      ]
+    },
+    {
+      "topic": "Feature scaling",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Feature scaling, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "scaling",
+        "standardization",
+        "normalization",
+        "distance",
+        "features"
+      ]
+    },
+    {
+      "topic": "Feature scaling",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Feature scaling. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "scaling",
+        "standardization",
+        "normalization",
+        "distance",
+        "features"
+      ]
+    },
+    {
+      "topic": "Feature scaling",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Feature scaling in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "scaling",
+        "standardization",
+        "normalization",
+        "distance",
+        "features"
+      ]
+    },
+    {
+      "topic": "Cross-validation",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Cross-validation, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "cross validation",
+        "fold",
+        "training",
+        "validation",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Cross-validation",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Cross-validation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "cross validation",
+        "fold",
+        "training",
+        "validation",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Cross-validation",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Cross-validation in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "cross validation",
+        "fold",
+        "training",
+        "validation",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Classification metrics",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Classification metrics, and why is it important in machine learning? Give a concise example.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "confusion matrix",
+        "accuracy"
+      ]
+    },
+    {
+      "topic": "Classification metrics",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a machine learning project and need to use Classification metrics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "confusion matrix",
+        "accuracy"
+      ]
+    },
+    {
+      "topic": "Classification metrics",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Classification metrics in machine learning, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "precision",
+        "recall",
+        "f1",
+        "confusion matrix",
+        "accuracy"
+      ]
+    }
+  ]
+}

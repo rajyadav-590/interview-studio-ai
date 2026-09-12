@@ -1,0 +1,396 @@
+{
+  "domain": "General Software Engineering",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Programming fundamentals",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Programming fundamentals, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "variable",
+        "function",
+        "condition",
+        "loop",
+        "data structure"
+      ]
+    },
+    {
+      "topic": "Programming fundamentals",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Programming fundamentals. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "variable",
+        "function",
+        "condition",
+        "loop",
+        "data structure"
+      ]
+    },
+    {
+      "topic": "Programming fundamentals",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Programming fundamentals in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "variable",
+        "function",
+        "condition",
+        "loop",
+        "data structure"
+      ]
+    },
+    {
+      "topic": "OOP",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is OOP, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "OOP",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use OOP. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "OOP",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For OOP in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "class",
+        "object",
+        "encapsulation",
+        "inheritance",
+        "polymorphism"
+      ]
+    },
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Version control, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Version control. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Version control",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Version control in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "git",
+        "commit",
+        "branch",
+        "merge",
+        "history"
+      ]
+    },
+    {
+      "topic": "Testing",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Testing, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "assertion",
+        "regression",
+        "coverage"
+      ]
+    },
+    {
+      "topic": "Testing",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Testing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "assertion",
+        "regression",
+        "coverage"
+      ]
+    },
+    {
+      "topic": "Testing",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Testing in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "unit test",
+        "integration test",
+        "assertion",
+        "regression",
+        "coverage"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Debugging, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "root cause",
+        "fix"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Debugging. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "root cause",
+        "fix"
+      ]
+    },
+    {
+      "topic": "Debugging",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Debugging in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "reproduce",
+        "logs",
+        "breakpoint",
+        "root cause",
+        "fix"
+      ]
+    },
+    {
+      "topic": "APIs",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is APIs, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "api",
+        "http",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "APIs",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use APIs. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "api",
+        "http",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "APIs",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For APIs in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "api",
+        "http",
+        "endpoint",
+        "request",
+        "response"
+      ]
+    },
+    {
+      "topic": "Databases",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Databases, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "table",
+        "primary key",
+        "foreign key",
+        "query",
+        "index"
+      ]
+    },
+    {
+      "topic": "Databases",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Databases. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "table",
+        "primary key",
+        "foreign key",
+        "query",
+        "index"
+      ]
+    },
+    {
+      "topic": "Databases",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Databases in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "table",
+        "primary key",
+        "foreign key",
+        "query",
+        "index"
+      ]
+    },
+    {
+      "topic": "Design principles",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Design principles, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "modularity",
+        "separation of concerns",
+        "coupling",
+        "cohesion",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Design principles",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Design principles. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "modularity",
+        "separation of concerns",
+        "coupling",
+        "cohesion",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Design principles",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Design principles in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "modularity",
+        "separation of concerns",
+        "coupling",
+        "cohesion",
+        "maintainability"
+      ]
+    },
+    {
+      "topic": "Security basics",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Security basics, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "validation",
+        "encryption",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Security basics",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Security basics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "validation",
+        "encryption",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Security basics",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Security basics in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "authentication",
+        "authorization",
+        "validation",
+        "encryption",
+        "least privilege"
+      ]
+    },
+    {
+      "topic": "Problem solving",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Problem solving, and why is it important in general software engineering? Give a concise example.",
+      "expected_concepts": [
+        "requirements",
+        "break down",
+        "tradeoff",
+        "test",
+        "validate"
+      ]
+    },
+    {
+      "topic": "Problem solving",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a general software engineering project and need to use Problem solving. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "requirements",
+        "break down",
+        "tradeoff",
+        "test",
+        "validate"
+      ]
+    },
+    {
+      "topic": "Problem solving",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Problem solving in general software engineering, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "requirements",
+        "break down",
+        "tradeoff",
+        "test",
+        "validate"
+      ]
+    }
+  ]
+}

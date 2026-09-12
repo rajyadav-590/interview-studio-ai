@@ -1,0 +1,396 @@
+{
+  "domain": "Computer Vision",
+  "version": "2.0",
+  "questions": [
+    {
+      "topic": "Image preprocessing",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Image preprocessing, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "resize",
+        "normalize",
+        "augmentation",
+        "image",
+        "pixels"
+      ]
+    },
+    {
+      "topic": "Image preprocessing",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Image preprocessing. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "resize",
+        "normalize",
+        "augmentation",
+        "image",
+        "pixels"
+      ]
+    },
+    {
+      "topic": "Image preprocessing",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Image preprocessing in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "resize",
+        "normalize",
+        "augmentation",
+        "image",
+        "pixels"
+      ]
+    },
+    {
+      "topic": "Convolution",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Convolution, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "convolution",
+        "kernel",
+        "filter",
+        "feature map",
+        "stride"
+      ]
+    },
+    {
+      "topic": "Convolution",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Convolution. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "convolution",
+        "kernel",
+        "filter",
+        "feature map",
+        "stride"
+      ]
+    },
+    {
+      "topic": "Convolution",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Convolution in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "convolution",
+        "kernel",
+        "filter",
+        "feature map",
+        "stride"
+      ]
+    },
+    {
+      "topic": "Image classification",
+      "difficulty": "Easy",
+      "type": "conceptual",
+      "question": "What is Image classification, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "class",
+        "label",
+        "cnn",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Image classification",
+      "difficulty": "Easy",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Image classification. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "class",
+        "label",
+        "cnn",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Image classification",
+      "difficulty": "Easy",
+      "type": "implementation",
+      "question": "For Image classification in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "class",
+        "label",
+        "cnn",
+        "training",
+        "prediction"
+      ]
+    },
+    {
+      "topic": "Object detection",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Object detection, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "bounding box",
+        "object",
+        "confidence",
+        "iou",
+        "detection"
+      ]
+    },
+    {
+      "topic": "Object detection",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Object detection. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "bounding box",
+        "object",
+        "confidence",
+        "iou",
+        "detection"
+      ]
+    },
+    {
+      "topic": "Object detection",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Object detection in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "bounding box",
+        "object",
+        "confidence",
+        "iou",
+        "detection"
+      ]
+    },
+    {
+      "topic": "Segmentation",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Segmentation, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "segmentation",
+        "pixel",
+        "mask",
+        "semantic",
+        "instance"
+      ]
+    },
+    {
+      "topic": "Segmentation",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Segmentation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "segmentation",
+        "pixel",
+        "mask",
+        "semantic",
+        "instance"
+      ]
+    },
+    {
+      "topic": "Segmentation",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Segmentation in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "segmentation",
+        "pixel",
+        "mask",
+        "semantic",
+        "instance"
+      ]
+    },
+    {
+      "topic": "Data augmentation",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Data augmentation, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "augmentation",
+        "flip",
+        "rotate",
+        "crop",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Data augmentation",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Data augmentation. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "augmentation",
+        "flip",
+        "rotate",
+        "crop",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Data augmentation",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Data augmentation in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "augmentation",
+        "flip",
+        "rotate",
+        "crop",
+        "generalization"
+      ]
+    },
+    {
+      "topic": "Transfer learning",
+      "difficulty": "Medium",
+      "type": "conceptual",
+      "question": "What is Transfer learning, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "pretrained",
+        "fine tuning",
+        "feature extractor",
+        "weights",
+        "dataset"
+      ]
+    },
+    {
+      "topic": "Transfer learning",
+      "difficulty": "Medium",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Transfer learning. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "pretrained",
+        "fine tuning",
+        "feature extractor",
+        "weights",
+        "dataset"
+      ]
+    },
+    {
+      "topic": "Transfer learning",
+      "difficulty": "Medium",
+      "type": "implementation",
+      "question": "For Transfer learning in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "pretrained",
+        "fine tuning",
+        "feature extractor",
+        "weights",
+        "dataset"
+      ]
+    },
+    {
+      "topic": "IoU and detection metrics",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is IoU and detection metrics, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "iou",
+        "precision",
+        "recall",
+        "threshold",
+        "bounding box"
+      ]
+    },
+    {
+      "topic": "IoU and detection metrics",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use IoU and detection metrics. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "iou",
+        "precision",
+        "recall",
+        "threshold",
+        "bounding box"
+      ]
+    },
+    {
+      "topic": "IoU and detection metrics",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For IoU and detection metrics in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "iou",
+        "precision",
+        "recall",
+        "threshold",
+        "bounding box"
+      ]
+    },
+    {
+      "topic": "OpenCV",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is OpenCV, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "opencv",
+        "image",
+        "video",
+        "filter",
+        "computer vision"
+      ]
+    },
+    {
+      "topic": "OpenCV",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use OpenCV. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "opencv",
+        "image",
+        "video",
+        "filter",
+        "computer vision"
+      ]
+    },
+    {
+      "topic": "OpenCV",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For OpenCV in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "opencv",
+        "image",
+        "video",
+        "filter",
+        "computer vision"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "conceptual",
+      "question": "What is Deployment, and why is it important in computer vision? Give a concise example.",
+      "expected_concepts": [
+        "inference",
+        "latency",
+        "model",
+        "optimization",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "scenario",
+      "question": "Imagine you are building a computer vision project and need to use Deployment. Describe how you would apply it and one problem you would watch for.",
+      "expected_concepts": [
+        "inference",
+        "latency",
+        "model",
+        "optimization",
+        "deployment"
+      ]
+    },
+    {
+      "topic": "Deployment",
+      "difficulty": "Hard",
+      "type": "implementation",
+      "question": "For Deployment in computer vision, explain one practical implementation approach and one important trade-off or design consideration.",
+      "expected_concepts": [
+        "inference",
+        "latency",
+        "model",
+        "optimization",
+        "deployment"
+      ]
+    }
+  ]
+}
